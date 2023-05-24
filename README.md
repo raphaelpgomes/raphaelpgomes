@@ -6,10 +6,10 @@
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelPGomes&show_icons=true&bg_color=DEG,0E1F26,1F3740,536A73,8D9FA6&title_color=000000&text_color=000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelpgomes&show_icons=true&bg_color=DEG,0E1F26,1F3740,536A73,8D9FA6&title_color=000000&text_color=000000"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPGomes&bg_color=DEG,0E1F26,1F3740,536A73,8D9FA6&title_color=000000&text_color=000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpgomes&bg_color=DEG,0E1F26,1F3740,536A73,8D9FA6&title_color=000000&text_color=000000"/>
 </a>
 <br>
 <div style="display: inline_block"><br>
