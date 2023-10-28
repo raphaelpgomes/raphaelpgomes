@@ -1,6 +1,6 @@
 ### "Hello World!" 
 ## Me chamo Raphael Gomes
-💻 1º Periodo de Análise e Desenvolvimento de Sistemas
+💻 2º Periodo de Análise e Desenvolvimento de Sistemas
 <hr>
 📚 Atualmente estudando C++/HTML5/CSS3/JavaScript
 <br>
